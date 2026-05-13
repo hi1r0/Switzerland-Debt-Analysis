@@ -1,10 +1,7 @@
 # Switzerland Debt Analysis
 
 **N Rohit Vedhanandh**  
-M.Sc. Quantitative Finance  
-Pondicherry University  
-Student ID: 25MSQUFPY0002  
-Academic Period: 2025–2027  
+ 
 
 ---
 
